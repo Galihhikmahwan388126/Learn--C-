@@ -1,0 +1,15 @@
+C:\Users\Galih Hikmahwan\OneDrive\Desktop\My Project C#\bin\Debug\net7.0\My Project C#.exe
+C:\Users\Galih Hikmahwan\OneDrive\Desktop\My Project C#\bin\Debug\net7.0\My Project C#.deps.json
+C:\Users\Galih Hikmahwan\OneDrive\Desktop\My Project C#\bin\Debug\net7.0\My Project C#.runtimeconfig.json
+C:\Users\Galih Hikmahwan\OneDrive\Desktop\My Project C#\bin\Debug\net7.0\My Project C#.dll
+C:\Users\Galih Hikmahwan\OneDrive\Desktop\My Project C#\bin\Debug\net7.0\My Project C#.pdb
+C:\Users\Galih Hikmahwan\OneDrive\Desktop\My Project C#\obj\Debug\net7.0\My Project C#.csproj.AssemblyReference.cache
+C:\Users\Galih Hikmahwan\OneDrive\Desktop\My Project C#\obj\Debug\net7.0\My Project C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galih Hikmahwan\OneDrive\Desktop\My Project C#\obj\Debug\net7.0\My Project C#.AssemblyInfoInputs.cache
+C:\Users\Galih Hikmahwan\OneDrive\Desktop\My Project C#\obj\Debug\net7.0\My Project C#.AssemblyInfo.cs
+C:\Users\Galih Hikmahwan\OneDrive\Desktop\My Project C#\obj\Debug\net7.0\My Project C#.csproj.CoreCompileInputs.cache
+C:\Users\Galih Hikmahwan\OneDrive\Desktop\My Project C#\obj\Debug\net7.0\My Project C#.dll
+C:\Users\Galih Hikmahwan\OneDrive\Desktop\My Project C#\obj\Debug\net7.0\refint\My Project C#.dll
+C:\Users\Galih Hikmahwan\OneDrive\Desktop\My Project C#\obj\Debug\net7.0\My Project C#.pdb
+C:\Users\Galih Hikmahwan\OneDrive\Desktop\My Project C#\obj\Debug\net7.0\My Project C#.genruntimeconfig.cache
+C:\Users\Galih Hikmahwan\OneDrive\Desktop\My Project C#\obj\Debug\net7.0\ref\My Project C#.dll
